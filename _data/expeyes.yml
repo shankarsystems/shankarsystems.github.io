@@ -1,0 +1,12 @@
+- feature: A tool for learning science by exploring and experimenting.
+- feature: 50 documented experiments and easy to add more.
+- feature: Wide range, High school and above.
+- feature: 4 channel Oscilloscope, 1Msps, +/-16V input range
+- feature: Sine/Triangular Wave Generator, 5Hz to 5kHz
+- feature: Programmable voltage sources, +/5V and +/-3.3V
+- feature: Frequency Counter and time measurements.
+- feature: Supports I2C standard sensors 
+- feature: 12bit analog resolution.
+- feature: Open Hardware and Free Software.
+- feature: Software in Python programming language.
+- feature: Requires USB port and Python
